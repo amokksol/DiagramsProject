@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T07:29:19.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="GqFMKtUJcpexDULkIcTA" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T07:33:25.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BSvpN_xfHRbLszekYNyJ" version="15.5.2" type="github">
   <diagram id="cuWQcVFdfYZ-C-uX1LDC" name="Page-1">
-    <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#B3B3B3" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#FFE6CC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="eOXDDU3w0wpmdB1VzxMQ-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;UpgradesManager&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="160" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="eOXDDU3w0wpmdB1VzxMQ-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="300" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="eOXDDU3w0wpmdB1VzxMQ-8" value="Click Button" style="html=1;" vertex="1" parent="eOXDDU3w0wpmdB1VzxMQ-7">
-          <mxGeometry x="95" y="350" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="eOXDDU3w0wpmdB1VzxMQ-9" value="ClickMiner" style="html=1;" vertex="1" parent="eOXDDU3w0wpmdB1VzxMQ-7">
-          <mxGeometry x="170" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eOXDDU3w0wpmdB1VzxMQ-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Upgrades&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="20" width="160" height="240" as="geometry" />
@@ -36,6 +27,15 @@
             <mxPoint x="680" y="460" as="sourcePoint" />
             <mxPoint x="430" y="120.00000000000004" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eOXDDU3w0wpmdB1VzxMQ-16" value="" style="swimlane;startSize=0;strokeWidth=4;fillColor=#333333;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="320" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="eOXDDU3w0wpmdB1VzxMQ-8" value="Click Button" style="html=1;" vertex="1" parent="eOXDDU3w0wpmdB1VzxMQ-16">
+          <mxGeometry x="100" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eOXDDU3w0wpmdB1VzxMQ-9" value="ClickMiner" style="html=1;" vertex="1" parent="eOXDDU3w0wpmdB1VzxMQ-16">
+          <mxGeometry x="190" y="130" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
