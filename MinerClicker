@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T11:44:46.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="mfGtYnvqfhThJx83RX3d" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T09:39:58.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="3yYzetxfDq6r1n1znI0r" version="15.5.2" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="981" dy="5229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="4999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,6 +86,24 @@
             <mxPoint x="1770.08" y="0.011999999999716238" as="sourcePoint" />
             <mxPoint x="1940" y="-29.99200000000019" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Uisj2oUr5GNyl0J6XD0D-28" value="Data class DEPOSIT" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-120" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Uisj2oUr5GNyl0J6XD0D-29" value="protectedMoveMiner()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uisj2oUr5GNyl0J6XD0D-28">
+          <mxGeometry y="26" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Uisj2oUr5GNyl0J6XD0D-30" value="virtual CollectionGold()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uisj2oUr5GNyl0J6XD0D-28">
+          <mxGeometry y="52" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Uisj2oUr5GNyl0J6XD0D-31" value="virtual DepositGold()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uisj2oUr5GNyl0J6XD0D-28">
+          <mxGeometry y="78" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Uisj2oUr5GNyl0J6XD0D-32" value="protected ChangeGoal()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uisj2oUr5GNyl0J6XD0D-28">
+          <mxGeometry y="104" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Uisj2oUr5GNyl0J6XD0D-33" value="virtual RotateMiner(direction)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uisj2oUr5GNyl0J6XD0D-28">
+          <mxGeometry y="130" width="310" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
